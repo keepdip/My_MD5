@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\bin\Debug\MD5.exe.config
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\bin\Debug\MD5.exe
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\bin\Debug\MD5.pdb
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.csprojAssemblyReference.cache
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.Form1.resources
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.Properties.Resources.resources
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.exe
+C:\Users\Павел\Desktop\Осипов\MD5\MD5\MD5\obj\Debug\MD5.pdb
